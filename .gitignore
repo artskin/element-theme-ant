@@ -1,0 +1,6 @@
+node_modules
+node_modules222
+lib
+npm-debug*
+.DS_Store
+dist
